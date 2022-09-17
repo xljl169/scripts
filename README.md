@@ -2,7 +2,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## QX
-### 首先打开设置，找到重写，然后选择规则资源，在其中添加规则（规则路径为 https://github.com/yangdaozhao/ylgy/blob/master/config.conf ，如果添加失败的话记得添加资源解析器：https://github.com/KOP-XIAO/QuantumultX/blob/master/Scripts/resource-parser.js ），规则名称随意，添加完成之后保存。
+### 首先打开设置，找到重写，然后选择规则资源，在其中添加规则（规则路径为 https://raw.githubusercontent.com/xljl169/scripts/main/config.conf ，如果添加失败的话记得添加资源解析器：https://github.com/KOP-XIAO/QuantumultX/blob/master/Scripts/resource-parser.js ），规则名称随意，添加完成之后保存。
 ### 然后返回到设置界面，打开重写。
 ### 接着找到下方的 MitM，点击生成证书，接着点击配置证书，按照软件提示安装证书，信任证书。
 ### 完成之后回到设置界面打开 MitM
