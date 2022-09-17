@@ -24,6 +24,6 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Loon
 ### [Script]
-### http-response ^https?://cat-match.easygame2021.com/sheep/v1/game/map_info(.*)$ script-path=https://raw.githubusercontent.com/yangdaozhao/ylgy/master/ylgy.js, requires-body=true, timeout=10, tag=ylgy, img-url=arrow.triangle.2.circlepath.doc.on.clipboard
+### http-response ^https?://cat-match.easygame2021.com/sheep/v1/game/map_info(.*)$ script-path=https://raw.githubusercontent.com/xljl169/scripts/main/ylgy.js, requires-body=true, timeout=10, tag=ylgy, img-url=arrow.triangle.2.circlepath.doc.on.clipboard
 ### [MIMT]
 ### hostname = *.easygame2021.com
